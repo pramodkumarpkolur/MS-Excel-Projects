@@ -1,2 +1,2 @@
-#Data_Analytics_Project_using_MS_Excel
+#MS_Excel_Project
 Introtallent Training Company
